@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "inheritEnvironments": [
+        "clang-x64"
+      ],
+      "name": "clang-x64",
+      "includePath": [
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\**"
+      ],
+      "intelliSenseMode": "windows-clang-x64"
+    }
+  ]
+}
